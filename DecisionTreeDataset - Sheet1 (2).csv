@@ -1,0 +1,15 @@
+Day,Temperature,Outlook,Humidity,Windy,Play Golf?
+07-05,hot,sunny,high,FALSE,no
+07-06,hot,sunny,high,TRUE,no
+07-07,hot,overcast,high,FALSE,yes
+07-09,cool,rain,normal,FALSE,yes
+07-10,cool,overcast,normal,TRUE,yes
+07-12,mild,sunny,high,FALSE,no
+07-14,cool,sunny,normal,FALSE,yes
+07-15,mild,rain,normal,FALSE,yes
+07-20,mild,sunny,normal,TRUE,yes
+07-21,mild,overcast,high,TRUE,yes
+07-22,hot,overcast,normal,FALSE,yes
+07-23,mild,rain,high,TRUE,no
+07-26,cool,rain,normal,TRUE,no
+07-30,mild,rain,high,FALSE,yes
